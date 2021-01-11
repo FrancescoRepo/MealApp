@@ -14,3 +14,6 @@ App for meals
   This command will download all the dependencies necessary for the app
  
 - Run the application
+
+## License
+MealApp is available under the MIT license. See the LICENSE file for more info.
